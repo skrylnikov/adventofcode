@@ -5,13 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "tsx watch ./src/2/index.ts",
+    "start": "tsx watch ./src/3/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "remeda": "^1.3.0",
     "tsx": "^3.12.1",
     "typescript": "^4.9.3"
   },

@@ -2,10 +2,12 @@ lockfileVersion: 5.4
 
 specifiers:
   '@types/node': '16'
+  remeda: ^1.3.0
   tsx: ^3.12.1
   typescript: ^4.9.3
 
 dependencies:
+  remeda: 1.3.0
   tsx: 3.12.1
   typescript: 4.9.3
 
@@ -281,6 +283,10 @@ packages:
 
   /get-tsconfig/4.2.0:
     resolution: {integrity: sha512-X8u8fREiYOE6S8hLbq99PeykTDoLVnxvF4DjWKJmz9xy2nNRdUcV8ZN9tniJFeKyTU3qnC9lL8n4Chd6LmVKHg==}
+    dev: false
+
+  /remeda/1.3.0:
+    resolution: {integrity: sha512-DJkLBUzi0dEigDuyPtVe50aNzQq8EBQOintPaxvzwSNreXOGsRnvfGiK+cTsY+nUgGCBrcFxcvH8MIg2skfIZA==}
     dev: false
 
   /source-map-support/0.5.21:
